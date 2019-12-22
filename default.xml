@@ -17,8 +17,8 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <remote  name="hs"
-           fetch="https://github.com/HridayHS"
+  <remote  name="RL"
+           fetch="https://github.com/RLShiftyDoggit"
            revision="marshmallow" />
 
   <remote  name="rr"
