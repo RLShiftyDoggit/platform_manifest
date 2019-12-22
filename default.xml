@@ -17,10 +17,6 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <remote  name="RL"
-           fetch="https://github.com/RLShiftyDoggit"
-           revision="marshmallow" />
-
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
 	   revision="marshmallow" />
